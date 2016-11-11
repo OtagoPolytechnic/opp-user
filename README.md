@@ -1,6 +1,6 @@
-# OPP-User
+# OPP-USER
 
-For the OPP-User we using CAS SSO version 3.5.2, its a single sign-on service for web application
+For the OPP-USER we using CAS SSO version 3.5.2, its a single sign-on service for web application
 
 * An open and well-documented protocol
 * An open-source Java server component
